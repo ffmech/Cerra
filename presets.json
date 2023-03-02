@@ -1,0 +1,144 @@
+[{
+    "Card": false,
+    "Website": "",
+    "email": null,
+    "Username": "",
+    "url": null,
+    "password": null,
+    "image": "password.png"
+},
+{
+    "Card": false,
+    "Website": "YouTube",
+    "email": null,
+    "Username": "",
+    "url": "youtube.com",
+    "password": null,
+    "image": "youtube.png"
+},
+{
+    "Card": false,
+    "Website": "Facebook",
+    "email": null,
+    "Username": "",
+    "url": "facebook.com",
+    "password": null,
+    "image": "facebook.png"
+},
+{
+    "Card": false,
+    "Website": "gmail",
+    "email": null,
+    "Username": "",
+    "url": "gmail.com",
+    "password": null,
+    "image": "gmail.png"
+},
+{
+    "Card": false,
+    "Website": "Instagram",
+    "email": null,
+    "Username": "",
+    "url": "instagram.com",
+    "password": null,
+    "image": "instagram.png"
+},
+{
+    "Card": false,
+    "Website": "Reddit",
+    "email": null,
+    "Username": "",
+    "url": "reddit.com",
+    "password": null,
+    "image": "reddit.png"
+},
+{
+    "Card": false,
+    "Website": "Yahoo",
+    "email": null,
+    "Username": "",
+    "url": "yahoo.com",
+    "password": null,
+    "image": "yahoo.png"
+},
+{
+    "Card": false,
+    "Website": "Outlook",
+    "email": null,
+    "Username": "",
+    "url": "outlook.com",
+    "password": null,
+    "image": "outlook.png"
+},
+{
+    "Card": false,
+    "Website": "Twitch",
+    "email": null,
+    "Username": "",
+    "url": "twitch.com",
+    "password": null,
+    "image": "twitch.png"
+},
+{
+    "Card": false,
+    "Website": "TikTok",
+    "email": null,
+    "Username": "",
+    "url": "tiktok.com",
+    "password": null,
+    "image": "tiktok.png"
+},
+{
+    "Card": false,
+    "Website": "Amazon",
+    "email": null,
+    "Username": "",
+    "url": "amazon.com",
+    "password": null,
+    "image": "amazon.png"
+},
+{
+    "Card": false,
+    "Website": "Steam",
+    "email": null,
+    "Username": "",
+    "url": "steam.com",
+    "password": null,
+    "image": "steam.png"
+},
+{
+    "Card": false,
+    "Website": "Disney+",
+    "email": null,
+    "Username": "",
+    "url": "disneyplus.com",
+    "password": null,
+    "image": "disney.png"
+},
+{
+    "Card": false,
+    "Website": "Netflix",
+    "email": null,
+    "Username": "",
+    "url": "netflix.com",
+    "password": null,
+    "image": "netflix.png"
+},
+{
+    "Card": false,
+    "Website": "LinkedIn",
+    "email": null,
+    "Username": "",
+    "url": "linkedin.com",
+    "password": null,
+    "image": "linkedin.png"
+},
+{
+    "Card": false,
+    "Website": "Twitter",
+    "email": null,
+    "Username": "",
+    "url": "twitter.com",
+    "password": null,
+    "image": "twitter.png"
+}]
