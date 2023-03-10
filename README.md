@@ -6,7 +6,7 @@ Cerra is a Python application that securely stores all your passwords or other i
 Installation
 ------------
 
-1.  Clone the repository: `git clone -b Modern https://github.com/ffmech/Cerra.git`
+1.  Clone the repository: `git clone -b main https://github.com/ffmech/Cerra.git`
 2.  Install the required packages: `pip install -r requirements.txt`
 3.  Run the program: `python Cerra.py`
 
